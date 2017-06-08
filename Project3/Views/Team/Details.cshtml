@@ -1,0 +1,50 @@
+﻿@model Project3.Models.Team
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Team</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.TeamName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TeamName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ManagerName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ManagerName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.WorldRank)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.WorldRank)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NumOfWorldCups)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NumOfWorldCups)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.TeamId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,220 @@
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\Project3.dll.config
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\Project3.dll
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\Project3.pdb
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\Antlr3.Runtime.dll
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\EntityFramework.dll
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\EntityFramework.SqlServer.dll
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\Microsoft.Owin.dll
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\Microsoft.Owin.Security.dll
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\Newtonsoft.Json.dll
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\Owin.dll
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\System.Web.Helpers.dll
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\System.Web.Mvc.dll
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\System.Web.Optimization.dll
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\System.Web.Razor.dll
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\System.Web.WebPages.dll
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\System.Web.WebPages.Razor.dll
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\WebGrease.dll
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\System.Web.Helpers.xml
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\System.Web.Mvc.xml
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\System.Web.Optimization.xml
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\System.Web.Razor.xml
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\System.Web.WebPages.xml
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\System.Web.WebPages.Razor.xml
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\Antlr3.Runtime.pdb
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\Newtonsoft.Json.xml
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\EntityFramework.xml
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\EntityFramework.SqlServer.xml
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\Microsoft.Owin.xml
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\Microsoft.Owin.Security.xml
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\obj\Debug\Project3.dll
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\obj\Debug\Project3.pdb
+C:\Users\MatthewWhelan\Documents\College\Project3\Project3\obj\Debug\Project3.csprojResolveAssemblyReference.cache
+H:\Project\Project3\Project3\bin\Project3.dll.config
+H:\Project\Project3\Project3\bin\Project3.dll
+H:\Project\Project3\Project3\bin\Project3.pdb
+H:\Project\Project3\Project3\bin\Antlr3.Runtime.dll
+H:\Project\Project3\Project3\bin\EntityFramework.dll
+H:\Project\Project3\Project3\bin\EntityFramework.SqlServer.dll
+H:\Project\Project3\Project3\bin\Microsoft.AspNet.Identity.Core.dll
+H:\Project\Project3\Project3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\Project\Project3\Project3\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\Project\Project3\Project3\bin\Microsoft.Owin.dll
+H:\Project\Project3\Project3\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\Project\Project3\Project3\bin\Microsoft.Owin.Security.Cookies.dll
+H:\Project\Project3\Project3\bin\Microsoft.Owin.Security.dll
+H:\Project\Project3\Project3\bin\Microsoft.Owin.Security.Facebook.dll
+H:\Project\Project3\Project3\bin\Microsoft.Owin.Security.Google.dll
+H:\Project\Project3\Project3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\Project\Project3\Project3\bin\Microsoft.Owin.Security.OAuth.dll
+H:\Project\Project3\Project3\bin\Microsoft.Owin.Security.Twitter.dll
+H:\Project\Project3\Project3\bin\Microsoft.Web.Infrastructure.dll
+H:\Project\Project3\Project3\bin\Newtonsoft.Json.dll
+H:\Project\Project3\Project3\bin\Owin.dll
+H:\Project\Project3\Project3\bin\System.Web.Helpers.dll
+H:\Project\Project3\Project3\bin\System.Web.Mvc.dll
+H:\Project\Project3\Project3\bin\System.Web.Optimization.dll
+H:\Project\Project3\Project3\bin\System.Web.Razor.dll
+H:\Project\Project3\Project3\bin\System.Web.WebPages.Deployment.dll
+H:\Project\Project3\Project3\bin\System.Web.WebPages.dll
+H:\Project\Project3\Project3\bin\System.Web.WebPages.Razor.dll
+H:\Project\Project3\Project3\bin\WebGrease.dll
+H:\Project\Project3\Project3\bin\System.Web.Helpers.xml
+H:\Project\Project3\Project3\bin\System.Web.Mvc.xml
+H:\Project\Project3\Project3\bin\System.Web.Optimization.xml
+H:\Project\Project3\Project3\bin\System.Web.Razor.xml
+H:\Project\Project3\Project3\bin\System.Web.WebPages.xml
+H:\Project\Project3\Project3\bin\System.Web.WebPages.Deployment.xml
+H:\Project\Project3\Project3\bin\System.Web.WebPages.Razor.xml
+H:\Project\Project3\Project3\bin\Antlr3.Runtime.pdb
+H:\Project\Project3\Project3\bin\Newtonsoft.Json.xml
+H:\Project\Project3\Project3\bin\EntityFramework.xml
+H:\Project\Project3\Project3\bin\EntityFramework.SqlServer.xml
+H:\Project\Project3\Project3\bin\Microsoft.AspNet.Identity.Core.xml
+H:\Project\Project3\Project3\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\Project\Project3\Project3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\Project\Project3\Project3\bin\Microsoft.Owin.xml
+H:\Project\Project3\Project3\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\Project\Project3\Project3\bin\Microsoft.Owin.Security.xml
+H:\Project\Project3\Project3\bin\Microsoft.Owin.Security.Facebook.xml
+H:\Project\Project3\Project3\bin\Microsoft.Owin.Security.Cookies.xml
+H:\Project\Project3\Project3\bin\Microsoft.Owin.Security.OAuth.xml
+H:\Project\Project3\Project3\bin\Microsoft.Owin.Security.Google.xml
+H:\Project\Project3\Project3\bin\Microsoft.Owin.Security.Twitter.xml
+H:\Project\Project3\Project3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\Project\Project3\Project3\obj\Debug\Project3.csprojResolveAssemblyReference.cache
+H:\Project\Project3\Project3\obj\Debug\Project3.dll
+H:\Project\Project3\Project3\obj\Debug\Project3.pdb
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\Project3.dll.config
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\Project3.dll
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\Project3.pdb
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\Antlr3.Runtime.dll
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\EntityFramework.dll
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\EntityFramework.SqlServer.dll
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\Microsoft.Owin.dll
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\Microsoft.Owin.Security.dll
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\Newtonsoft.Json.dll
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\Owin.dll
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\System.Web.Helpers.dll
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\System.Web.Mvc.dll
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\System.Web.Optimization.dll
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\System.Web.Razor.dll
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\System.Web.WebPages.dll
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\System.Web.WebPages.Razor.dll
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\WebGrease.dll
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\System.Web.Helpers.xml
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\System.Web.Mvc.xml
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\System.Web.Optimization.xml
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\System.Web.Razor.xml
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\System.Web.WebPages.xml
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\System.Web.WebPages.Razor.xml
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\Antlr3.Runtime.pdb
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\Newtonsoft.Json.xml
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\EntityFramework.xml
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\EntityFramework.SqlServer.xml
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\Microsoft.Owin.xml
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\Microsoft.Owin.Security.xml
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\obj\Debug\Project3.csprojResolveAssemblyReference.cache
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\obj\Debug\Project3.dll
+C:\Users\MatthewWhelan\Downloads\Project3\Project3\obj\Debug\Project3.pdb
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\Project3.dll.config
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\Project3.dll
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\Project3.pdb
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\Antlr3.Runtime.dll
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\EntityFramework.dll
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\EntityFramework.SqlServer.dll
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\Microsoft.Owin.dll
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\Microsoft.Owin.Security.dll
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\Newtonsoft.Json.dll
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\Owin.dll
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\System.Web.Helpers.dll
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\System.Web.Mvc.dll
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\System.Web.Optimization.dll
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\System.Web.Razor.dll
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\System.Web.WebPages.dll
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\System.Web.WebPages.Razor.dll
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\WebGrease.dll
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\System.Web.Helpers.xml
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\System.Web.Mvc.xml
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\System.Web.Optimization.xml
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\System.Web.Razor.xml
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\System.Web.WebPages.xml
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\System.Web.WebPages.Razor.xml
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\Antlr3.Runtime.pdb
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\Newtonsoft.Json.xml
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\EntityFramework.xml
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\EntityFramework.SqlServer.xml
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\Microsoft.Owin.xml
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\Microsoft.Owin.Security.xml
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\obj\Debug\Project3.csprojResolveAssemblyReference.cache
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\obj\Debug\Project3.dll
+C:\Users\MatthewWhelan\Documents\Websites\RugbyWC Website\Project3\obj\Debug\Project3.pdb

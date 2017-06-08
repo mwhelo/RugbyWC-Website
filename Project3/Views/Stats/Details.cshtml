@@ -1,0 +1,66 @@
+﻿@model Project3.Models.Stat
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Stat</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Player.PlayerName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Player.PlayerName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PlayerName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PlayerName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PlayerTeam)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PlayerTeam)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Appereances)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Appereances)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tires)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tires)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Points)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Points)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.StatId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

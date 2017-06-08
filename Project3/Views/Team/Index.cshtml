@@ -1,0 +1,52 @@
+﻿@model IEnumerable<Project3.Models.Team>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>The Top Ranked Teams from the Rugby World Cup 2015.</h2>
+<h3>   <img src="~/Images/Photo5.jpg" width="1200" height="400" />     </h3>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.TeamName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ManagerName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.WorldRank)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NumOfWorldCups)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.TeamName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ManagerName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.WorldRank)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NumOfWorldCups)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.TeamId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.TeamId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.TeamId })
+        </td>
+    </tr>
+}
+
+</table>

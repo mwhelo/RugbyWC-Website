@@ -1,0 +1,57 @@
+﻿@model IEnumerable<Project3.Models.Manager>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Managers That Managed at the Rugby World Cup 2015</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Team.TeamName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ManagerName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TeamManaged)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Appereances)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.GamesWon)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Team.TeamName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ManagerName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TeamManaged)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Appereances)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.GamesWon)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ManagerId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.ManagerId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.ManagerId })
+        </td>
+    </tr>
+}
+
+</table>

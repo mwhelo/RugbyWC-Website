@@ -1,0 +1,58 @@
+﻿@model IEnumerable<Project3.Models.Player>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>The Top Performing Players from the Rugby World Cup 2015</h2>
+<h3> <img src="~/Images/Photo4.jpg" width="1200" height="800" />  </h3>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Team.TeamName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PlayerName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PlayerTeam)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Appereances)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Tires)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Team.TeamName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PlayerName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PlayerTeam)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Appereances)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Tires)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.PlayerId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.PlayerId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.PlayerId })
+        </td>
+    </tr>
+}
+
+</table>

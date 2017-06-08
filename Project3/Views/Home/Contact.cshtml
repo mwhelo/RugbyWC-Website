@@ -1,0 +1,39 @@
+﻿@{
+    ViewBag.Title = "Contact";
+}
+
+
+<h2>Search Players by Name</h2>
+
+<div>
+    <input id="searchString" type="text" placeholder="Player Name" />
+    <input type="button" value="Search" onclick="DoSearch();" />
+</div>
+<div id="resultsDiv"></div>
+
+@section scripts {
+    <script type="text/javascript">
+        function DoSearch() {
+            $("#resultDiv").html("");
+            var namePart = { "namePart": $("#searchString").val() };
+            $.ajax({
+                type: "POST",
+                contentType: "application/json; charset=utf-8",
+                url: "/WebService.asmx.cs/GetPlayersByPlayerName",
+                datatype: "json",
+                async: true,
+                success: function (result, textStatus) {
+                    if (textStatus == "Success") {
+                        for (var i = 0; i < result.d.length; i++) {
+                            $("#resultsDiv").html($("#resultsDiv").html() + result.d[i] + "<br />");
+                        }
+                    }
+                },
+                error: function (result, status, error) {
+                    $("#resultsDiv").html("ERROR <br />");
+                }
+
+            });
+        }
+    </script>
+}
